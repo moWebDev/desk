@@ -1,0 +1,19 @@
+{
+  "name": "desk",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Errec/pug-sass-boilerplate-starter-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Errec/pug-sass-boilerplate-starter-kit/issues"
+  },
+  "homepage": "https://github.com/Errec/pug-sass-boilerplate-starter-kit#readme"
+}
