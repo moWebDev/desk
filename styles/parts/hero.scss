@@ -1,0 +1,19 @@
+.hero {
+  // background-image: url(../img/greg-youtuber.jpg);
+  background: linear-gradient((rgba(0, 0, 0, 0.45),rgba(121, 89, 136, 0.15))), url(../img/greg-youtuber.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 17% 0;
+}
+
+.hero p {
+  color: #f1f1f1;
+  font-size: 4em;
+  font-family: 'Roboto',sans-serif;
+  font-weight: 400;
+  text-align: center;
+  margin: 0;
+}
+.hero span p{
+  font-size: 3em;
+}
